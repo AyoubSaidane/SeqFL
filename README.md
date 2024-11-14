@@ -48,4 +48,6 @@ Install TensorBoard to monitor model training:
 conda install -c conda-forge tensorboard -y
 ```
 
-
+## Results
+[Report](AYOUB_SAIDANE_report_2024.pdf)
+[Presentation](AYOUB_SAIDANE_presentation_2024.pdf)
